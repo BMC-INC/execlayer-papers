@@ -1,4 +1,8 @@
-ExecLayer Papers
+Version DOI: https://doi.org/10.5281/zenodo.18521539
+Concept DOI: https://doi.org/10.5281/zenodo.18521538
+
+Official Publication Archive:
+https://zenodo.org/records/18521539ExecLayer Papers
 
 ExecLayer Foundational Research Series
 Version 1.0.0
