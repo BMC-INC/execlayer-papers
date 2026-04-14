@@ -290,7 +290,7 @@ These design tensions inform architectural decisions detailed in Section 4.
 
 ### 3.5 Relationship to Patent Claims
 
-The requirements formalized above directly support the patent-pending architecture described in Application No. 63/952,140. Specifically:
+The requirements formalized above directly support the patent-pending architecture described in U.S. Provisional Application No. 63/952,140, "SYSTEMS AND METHODS FOR GENERATIVE OPS DYNAMIC GENERATION AND EXECUTION OF OPERATIONAL SOFTWARE VIA INTENT RESOLUTION AND INTERMEDIATE SCHEMA REPRESENTATION." Specifically:
 
 - SR-1 (Intermediate Schema) corresponds to the Blueprint intermediate representation
 - SR-2 (Execution Gating) implements the governed execution model

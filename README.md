@@ -6,10 +6,12 @@ ExecLayer is a foundational research archive for execution-bound governance in A
 
 ## Related Patent Filings
 
-- USPTO 63/907,087 -- Voice-Authenticated Intent Resolution with Real-Time Policy Binding and Session-Scoped Execution Control
-- USPTO 63/952,140 -- Deterministic Governance Kernel with Authority-Bound Execution and Runtime Policy Enforcement
-- USPTO 63/983,308 -- Deterministic Execution-Bound Governance with Cryptographic Authorization, Threshold Authority Control, and Adversarial Hardening
-- USPTO 64/014,664 -- Multimodal Signal Capture with Attested Calibration and Bayesian Belief-State Fusion
+| Filing Date | Internal Ref | Application No. | Title | Inventor |
+| --- | --- | --- | --- | --- |
+| 10/20/2025 | - | 63/901,870 | Voice Activated Automotive Parts Identification and Advisory System with Hands Free Kiosk Interface | Mr. James dale Benton Jr. |
+| 12/31/2025 | - | 63/952,140 | SYSTEMS AND METHODS FOR GENERATIVE OPS DYNAMIC GENERATION AND EXECUTION OF OPERATIONAL SOFTWARE VIA INTENT RESOLUTION AND INTERMEDIATE SCHEMA REPRESENTATION | Mr. James Dale Benton Jr. |
+| 02/14/2026 | ExecLayer-DetGate-001 | 63/983,308 | Systems and methods for deterministic execution-bound governance with cryptographic authorization binding, threshold authority control, and adversarial hardening. | James dale Benton Jr. |
+| 03/23/2026 | - | 64/014,664 | Systems and Methods for Multimodal Emotional Signal Capture, Fusion, and Attested Calibration in AI Training Pipelines | James Dale Benton |
 
 ## Publication Metadata
 
@@ -38,7 +40,7 @@ This repository contains the foundational research publications defining executi
 
 **Publication Archive:** [https://zenodo.org/records/19198193](https://zenodo.org/records/19198193)
 
-**Filed Patent:** U.S. Provisional Application No. 64/014,664 (March 23, 2026)
+**Filed Patent:** U.S. Provisional Application No. 64/014,664, *Systems and Methods for Multimodal Emotional Signal Capture, Fusion, and Attested Calibration in AI Training Pipelines* (March 23, 2026)
 
 A governed multimodal architecture for emotional signal capture and attested calibration in language model alignment. Introduces four-channel emotional signal capture (emoji stream, text annotation, on-device voice tone, Fitzpatrick-gated facial expression), dual-axis training signal with multiplicative weighting separating reasoning quality from emotional salience, a persistent Emotional Memory Cabinet with Bayesian belief updating and drift detection, and cryptographic attestation over the complete emotional calibration trajectory. Describes three deployment modes for regulated industries including healthcare, financial services, and defense.
 
