@@ -12,6 +12,7 @@ ExecLayer is a foundational research archive for execution-bound governance in A
 | 12/31/2025 | - | 63/952,140 | SYSTEMS AND METHODS FOR GENERATIVE OPS DYNAMIC GENERATION AND EXECUTION OF OPERATIONAL SOFTWARE VIA INTENT RESOLUTION AND INTERMEDIATE SCHEMA REPRESENTATION | Mr. James Dale Benton Jr. |
 | 02/14/2026 | ExecLayer-DetGate-001 | 63/983,308 | Systems and methods for deterministic execution-bound governance with cryptographic authorization binding, threshold authority control, and adversarial hardening. | James dale Benton Jr. |
 | 03/23/2026 | - | 64/014,664 | Systems and Methods for Multimodal Emotional Signal Capture, Fusion, and Attested Calibration in AI Training Pipelines | James Dale Benton |
+| 05/19/2026 | EXLR-005 | 64/069,063 | Systems and Methods for Deterministic Governance Enforcement and Cryptographic Attestation of Autonomous Financial Transactions on Distributed Ledgers | James Dale Benton |
 
 ## Publication Metadata
 
