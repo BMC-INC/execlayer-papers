@@ -13,6 +13,8 @@ ExecLayer is a foundational research archive for execution-bound governance in A
 | 02/14/2026 | ExecLayer-DetGate-001 | 63/983,308 | Systems and methods for deterministic execution-bound governance with cryptographic authorization binding, threshold authority control, and adversarial hardening. | James dale Benton Jr. |
 | 03/23/2026 | - | 64/014,664 | Systems and Methods for Multimodal Emotional Signal Capture, Fusion, and Attested Calibration in AI Training Pipelines | James Dale Benton |
 | 05/19/2026 | EXLR-005 | 64/069,063 | Systems and Methods for Deterministic Governance Enforcement and Cryptographic Attestation of Autonomous Financial Transactions on Distributed Ledgers | James Dale Benton |
+| 06/25/2026 | EXLR-006 | 64/099,216 | Evidence-Bound Deterministic Authority Kernel for Governing Execution of Autonomous, Neural-Interface, Cognitive-Write, and Other High-Consequence Systems, with Signed Authority Profiles, Multi-Party Authority Bundles, Content Manifests, Stream-Scoped Cryptographic Receipt Chains, and Content-Minimizing Attestation | James Dale Benton Jr. |
+| 08/12/2026 | EXLR-007 | 64/132,061 | Physically Isolated Authority Enforcement Module and Methods for Governing Actions Proposed by Probabilistic Computational Models | James Dale Benton Jr. |
 
 ## Publication Metadata
 
