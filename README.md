@@ -1,6 +1,6 @@
 # ExecLayer Papers
 
-**ExecLayer Foundational Research Series**
+**ExecLayer Foundational Research Series and Published Papers**
 
 ExecLayer is a foundational research archive for execution-bound governance in AI systems, introducing deterministic runtime enforcement, authority validation, cryptographic auditability, policy-bound execution, and governed multimodal signal capture.
 
@@ -16,22 +16,22 @@ ExecLayer is a foundational research archive for execution-bound governance in A
 | 06/25/2026 | EXLR-006 | 64/099,216 | Evidence-Bound Deterministic Authority Kernel for Governing Execution of Autonomous, Neural-Interface, Cognitive-Write, and Other High-Consequence Systems, with Signed Authority Profiles, Multi-Party Authority Bundles, Content Manifests, Stream-Scoped Cryptographic Receipt Chains, and Content-Minimizing Attestation | James Dale Benton Jr. |
 | 08/12/2026 | EXLR-007 | 64/132,061 | Physically Isolated Authority Enforcement Module and Methods for Governing Actions Proposed by Probabilistic Computational Models | James Dale Benton Jr. |
 
-## Publication Metadata
+## Foundational Archive Metadata
 
-- Version DOI: https://doi.org/10.5281/zenodo.18749299
-- Concept DOI: https://doi.org/10.5281/zenodo.18521538
-- Official Publication Archive: https://zenodo.org/records/18749299
+- Version DOI: [10.5281/zenodo.18749299](https://doi.org/10.5281/zenodo.18749299)
+- Concept DOI: [10.5281/zenodo.18521538](https://doi.org/10.5281/zenodo.18521538)
+- Official Publication Archive: [Zenodo record 18749299](https://zenodo.org/records/18749299)
 - Version: 1.0.2
 - Release Date: February 8, 2026
 - Publisher: ExecLayer Inc., Wilmington, Delaware, United States
 
 The concept DOI always resolves to the current version. Version 1.0.1 (10.5281/zenodo.18521539) is superseded and should no longer be cited.
 
-Every publication listed below is collected in the Zenodo community: https://zenodo.org/communities/execlayer
+The published catalog was verified against the [ExecLayer Research community on Zenodo](https://zenodo.org/communities/execlayer/records) on **October 28, 2026**. It covers all **nine published records**: one archive containing Papers I–IV and eight standalone papers, for **12 papers plus the preface**. AAB is listed separately as pre-release and is excluded from these counts.
 
 ## About
 
-This repository contains the foundational research publications defining execution-bound governance infrastructure for AI systems.
+This repository preserves foundational research files and indexes the published execution-bound governance papers, benchmarks and companion publications. Use each Zenodo record for the deposited files and publication metadata; local historical files and repository tags have their own versions.
 
 ## Contents
 
@@ -58,6 +58,11 @@ Each carries its own DOI and is cited independently of the archive.
 | IX | The Missing Control Boundary: Deterministic Governance Architecture for Brain-Computer Interfaces and Cognitive-Write Systems | 06/27/2026 | [10.5281/zenodo.20952564](https://doi.org/10.5281/zenodo.20952564) | 64/099,216 |
 | X | Deterministic Execution Authority for Autonomous Space Systems: Governance Architecture for Orbital Platforms Under the Outer Space Treaty | 06/27/2026 | [10.5281/zenodo.20956531](https://doi.org/10.5281/zenodo.20956531) | 64/099,216 |
 | XI | Memory Governance Integrity Benchmark (MGIB): An Execution-Focused Evaluation Framework for Memory-Mediated Authority Failures in AI Systems | 08/08/2026 | [10.5281/zenodo.21856219](https://doi.org/10.5281/zenodo.21856219) | - |
+| ELIB | Embodied Lesson Integrity Benchmark (ELIB): Measuring Lesson Authority Under Physical Drift | 10/20/2026 | [10.5281/zenodo.23516698](https://doi.org/10.5281/zenodo.23516698) | - |
+
+### Pre-release Research
+
+**Agent Authority Benchmark (AAB / EAAC-1) — pre-release; unpublished.** An implemented research instrument examining whether an agent control plane prevents prohibited execution, preserves human approval authority and emits evidence that can be reconciled with observed actions. Its initial scope uses scripted adversaries and a simulated world. AAB is not a published paper in this catalog and has no publication date or DOI listed here. See the [public research status](https://execlayer.net/research).
 
 ## Paper Summaries
 
@@ -99,6 +104,14 @@ A deterministic execution-authority architecture for autonomous spacecraft under
 
 Evaluates whether an AI system can form, retain, update, retrieve, and forget memory accurately while preserving authority, provenance, privacy, policy, and execution controls across long-horizon benign and adversarial interactions. The distinct property MGIB measures is whether persistent memory changes who or what an AI system believes is authorized to cause consequential actions, an execution-authority question rather than a recall-accuracy or poisoning-detection one.
 
+### ELIB: Embodied Lesson Integrity Benchmark
+
+**Version 0.2 preprint, published October 20, 2026.** Concept DOI: [10.5281/zenodo.23516697](https://doi.org/10.5281/zenodo.23516697).
+
+Measures whether stored physical lessons retain justified authority to influence action as hardware or operating conditions change. ELIB is the fourth instrument in the ExecLayer Governance Suite, alongside AGB, OHB and MGIB. Its measurements concern diagnostic calibration in analytical simulation; hardware validation and independent-system replication remain future work. The implementation and evaluator keys remain private.
+
+The [published Zenodo record](https://zenodo.org/records/23516698) contains the [whitepaper (PDF)](https://zenodo.org/records/23516698/files/ELIB_whitepaper_v0.2.pdf?download=1) and the [protocol and validation supplement (PDF)](https://zenodo.org/records/23516698/files/ELIB_protocol_and_validation.pdf?download=1).
+
 ## Core Proposition
 
 No operation executes without validated authority.
@@ -111,14 +124,18 @@ ExecLayer introduces a deterministic runtime enforcement boundary between AI-gen
 - Publication Date: February 8, 2026
 - Latest Repository Tag: v1.0.1
 
-Versioning applies to the foundational archive only. Standalone papers are versioned independently by their own DOIs. Future revisions will follow semantic versioning.
+These version labels apply to the foundational archive only. Standalone papers are versioned independently by their own DOIs, including MGIB 2.0 and ELIB 0.2. Updating this catalog does not create a new version of a deposited paper. AAB remains pre-release.
 
 ## Citation
 
 Cite the foundational archive:
 
-Benton, J. D., Jr. (2026). *ExecLayer Papers: Foundational Trilogy and Doctrine* (Version 1.0.2). Zenodo. https://doi.org/10.5281/zenodo.18749299
+Benton, J. D., Jr. (2026). *ExecLayer Papers: Foundational Trilogy and Doctrine* (Version 1.0.2). Zenodo. [10.5281/zenodo.18749299](https://doi.org/10.5281/zenodo.18749299)
 
 Cite a standalone paper by its own DOI, for example Paper V:
 
-Benton, J. D., Jr. (2026). *Training AI to Understand Emotions: A Governed Multimodal Architecture for Emotional Signal Capture and Attested Calibration in Language Model Alignment*. Zenodo. https://doi.org/10.5281/zenodo.19198193
+Benton, J. D., Jr. (2026). *Training AI to Understand Emotions: A Governed Multimodal Architecture for Emotional Signal Capture and Attested Calibration in Language Model Alignment*. Zenodo. [10.5281/zenodo.19198193](https://doi.org/10.5281/zenodo.19198193)
+
+Cite ELIB and its companion supplement through their shared record:
+
+Benton, J. D., Jr. (2026). *Embodied Lesson Integrity Benchmark (ELIB): Measuring Lesson Authority Under Physical Drift* (Version 0.2) [Preprint]. Zenodo. [10.5281/zenodo.23516698](https://doi.org/10.5281/zenodo.23516698)
