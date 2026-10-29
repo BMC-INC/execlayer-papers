@@ -1,8 +1,29 @@
 # ExecLayer Papers
 
-**ExecLayer Foundational Research Series and Published Papers**
+**Research on execution authority, governance enforcement, and verifiable evidence in AI systems.**
 
 ExecLayer is a foundational research archive for execution-bound governance in AI systems, introducing deterministic runtime enforcement, authority validation, cryptographic auditability, policy-bound execution, and governed multimodal signal capture.
+
+## Start here
+
+| Your interest | Reading path |
+| --- | --- |
+| Understand the architecture | [Foundational archive](https://doi.org/10.5281/zenodo.18749299): preface and Papers I–IV |
+| Browse the published work | [Research catalog](https://execlayer.net/research), with publication links and status |
+| Evaluate the benchmarks | [Standalone papers](#standalone-papers), then each paper's protocol and stated limitations |
+| Cite or reproduce a claim | Use the specific version DOI and deposited files; see [citation guidance](#citation) |
+
+This is a research archive, not an application or an installable implementation.
+Published proposals, benchmark results, and pre-release work are identified
+separately below. A publication record does not by itself establish independent
+validation or production readiness of an implementation.
+
+Local files preserve historical source material. The versioned publication
+records are the reference for deposited manuscripts; links to implementations
+inside historical manuscripts may be outdated. For corrections, [open an
+issue](https://github.com/BMC-INC/execlayer-papers/issues) identifying the paper,
+version, and passage. Consult each publication record for its license; this
+repository does not supply a blanket software license for all materials.
 
 ## Related Patent Filings
 
